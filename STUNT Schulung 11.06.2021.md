@@ -242,7 +242,7 @@ Bevor du anfängst, die Webapp zu entwickeln, nimm dir einen Moment, sie grafisc
 
 Beispiel: [Miro | Online Whiteboard for Visual Collaboration](https://miro.com/app/board/o9J_kr4JAG8=/) (nur temporär verfügbar)
 
-![Todo-Wireframing.jpg](/home/earthenlynx/Documents/My%20Notes/Learning%20&%20Teaching/Todo-Wireframing.jpg)
+![Todo-Wireframing.jpg](https://github.com/tq-bit/stunt-schulung-todo-app/blob/main/Todo-Wireframing.jpg?raw=true)
 
 ### Start Template in HTML
 
