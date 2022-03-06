@@ -22,11 +22,11 @@ Dieses Skript enthält die wichtigsten Informationen und Code-Snippets, um die B
 
 2. hat Basiskenntnisse in der Webentwicklung mit Javascript
 
-> Ein Wort der Warnung: Es ist okay, nicht jede Zeile Code, die hier verwendet wird, auf Anhieb zu verstehen. Das Projekt ist zwar ein Projekt zu Einführung, setzt aber eigentlich einige Grundkenntnisse voraus, die du vielleicht nicht haben wirst. Das ist aber okay. In der Entwicklung macht jeder, insbesondere zu Anfang, mehr falsch als richtig
+> Es ist okay, nicht jede Zeile Code, die hier verwendet wird, auf Anhieb zu verstehen. Das Projekt ist zwar ein Projekt zu Einführung, setzt aber eigentlich einige Grundkenntnisse voraus, die du vielleicht nicht haben wirst. Das ist aber okay. In der Entwicklung macht jeder, insbesondere zu Anfang, mehr falsch als richtig
 > 
 > Wichtig ist dabei: Dran bleiben
 > 
-> & manchmal muss man rennen, bevor man kriechen kann. 
+> & manchmal muss man rennen, bevor man krabbeln lernt. 
 
 ## Das Projekt : Setup des Servers
 
