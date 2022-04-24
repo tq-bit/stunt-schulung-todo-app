@@ -30,6 +30,10 @@ Dieses Skript enthält die wichtigsten Informationen und Code-Snippets, um die B
 
 ## Das Projekt : Setup des Servers
 
+Alternativ zu der hier vorgestellten Lösung kannst du auch eine Umgebung mit Docker erstellen. Dazu ist allerdings ein umfänglicheres Setup notwendig. In dieser Schulung nutzen wir Strapi auf DO, damit jeder Teilnehmer auf dieselbe Datenquelle zugreifen kann.
+
+Zur Installation von Strapi mit Docker: [Offizielle Dokumentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/docker.html) 
+
 ### Schritt 1: Erstelle ein neues Droplet für 5$
 
 - Öffne deine Projektseite von Digitalocean
