@@ -30,7 +30,7 @@ Dieses Skript enthält die wichtigsten Informationen und Code-Snippets, um die B
 
 ## Das Projekt : Setup des Servers
 
-### Schritt 1: Erstelle ein neues Droplet
+### Schritt 1: Erstelle ein neues Droplet für 5$
 
 - Öffne deine Projektseite von Digitalocean
 
