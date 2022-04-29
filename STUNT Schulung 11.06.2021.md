@@ -936,34 +936,11 @@ Spätestens jetzt sollte auch jedem eine weitere Kleinigkeit auffallen: Wenn get
   // ...
 ```
 
-### Bonusfeature: Filterfunktion
+### Hausaufgaben: Filterfunktion
 
-Zu Anfang des Projektes haben wir ein Inputfeld hinzugefügt, das bislang unbenutzt blieb. Als Sahnehäubchen wollen wir dies nun Nutzen, um Todos direkt im Browser zu filtern.
+Jetzt bist du dran. Versuche, mit VSCode (und Google) eine eigene Suchfunktion in die App einzubauen. Als Hilfestellung kannst du z.B. diesen Artikel verwenden: 
 
-Füge zunächst den Selektor oben in der App ein: 
-
-```javascript
-var inputFilterTodos = document.querySelector('#input-search');
-```
-
-Dann brauchen wir wieder einen event listener, der jedes Mal ausgelöst wird, wenn sich der Inhalt des Feldes ändert
-
-```javascript
-function bindFilterInput() {
-  inputFilterTodos.addEventListener('keyup', function (event) {
-    var filterValue = event.target.value;
-    handleFilterTodos(filterValue);
-  })
-}
-
-// ... füge diese Funktion auch wieder zum DOMContentLoaded - Event hinzu
-```
-
-Zu guter letzt brauchen wir noch die Filterfunktion selbst: 
-
-```javascript
-
-```
+- [How to create a Filter/Search List](https://www.w3schools.com/howto/howto_js_filter_lists.asp)
 
 ### Der vollständige Code
 
