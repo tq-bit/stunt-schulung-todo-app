@@ -1,5 +1,13 @@
 # Projekt 'Todo-Liste' der Schulung 'Einführung in die Webentwicklung'
 
+## Quickstart Script für Strapi auf lokalem Rechner
+
+```bash
+cd my-project     # Navigiere in das Projektverzeichnis
+ls lart           # package.json vorhanden?
+npm run develop   # startet die Strapi Instanz
+```
+
 ## Scope des Inhaltes
 
 Dieses Skript enthält die wichtigsten Informationen und Code-Snippets, um die Basisfunktionen der in der Schulung vorgestellten Todo - App zu gewährleisten.  
